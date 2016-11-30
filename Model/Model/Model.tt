@@ -3,7 +3,7 @@
 <#@ include file="$(ProjectDir)BLToolkit.ttinclude" #>
 <#@ include file="$(ProjectDir)MSSQL.ttinclude"     #>
 <#
-    ConnectionString = "Server=192.168.2.79;Database=5Th;user id=sa;pwd=sql2008?";
+    ConnectionString = "Server=192.168.2.244;Database=Oauth_Data_Practice;user id=sa;pwd=sql2008?";
 
     Namespace        = "Model";
     DataContextName  = "DataModel";

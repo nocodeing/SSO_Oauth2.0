@@ -6,6 +6,6 @@
     /// </summary>
     public enum DbConnectionType
     {
-        Fifth//设置默认数据库连接Key
+        Oauth_Data_Practice//设置默认数据库连接Key
     }
 }

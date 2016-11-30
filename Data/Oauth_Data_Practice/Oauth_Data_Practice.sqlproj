@@ -61,8 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Table\Users.sql" />
-    <Build Include="Table\UserRoles.sql" />
-    <Build Include="Table\Roles.sql" />
     <Build Include="Table\RefreshTokens.sql" />
   </ItemGroup>
   <ItemGroup>
