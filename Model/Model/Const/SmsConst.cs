@@ -5,17 +5,17 @@ namespace Model.Const
 {
     public static class SmsConst
     {
-        public const string SoftwareSerialNo = "9SDK-EMY-0999-JFSSP";
-        public const string Key = "394946";
-        public const string SerialPass = "394946";
-        public const string EnterName = "河南第五大街电子商务有限公司";
-        public const string LinkMan = "韩凯";
-        public const string PhoneNum = "0371-56659935";
-        public const string Mobile = "18838905613";
-        public const string Email = "hankai125@sina.com";
-        public const string Fax = "0371-56659935";
-        public const string Address = "河南省郑州市郑东新区商都路站南路建正东方中心C-2202";
-        public const string PostCode = "450000";
+        public const string SoftwareSerialNo = "";
+        public const string Key = "";
+        public const string SerialPass = "";
+        public const string EnterName = "";
+        public const string LinkMan = "";
+        public const string PhoneNum = "";
+        public const string Mobile = "";
+        public const string Email = "";
+        public const string Fax = "";
+        public const string Address = "";
+        public const string PostCode = "";
         public const int SmsPriority = 1;  //短信等级1~5,数值越高发送等级越高,默认为1
 
         public const string Msg = "短信验证码为:";
